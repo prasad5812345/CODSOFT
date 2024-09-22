@@ -11,4 +11,4 @@
 -<b>Clear and Evaluate:</b> The 'C' button clears the current input, while the '=' button evaluates the current expression.<br>
 
 <h1>Output:</h1>
-![](https://github.com/prasad5812345.png)
+![]([https://github.com/prasad5812345.png](https://github.com/prasad5812345/CODSOFT/blob/main/Task-2%20(Calculator)/Output%20screenshots/cal%20output.png))
