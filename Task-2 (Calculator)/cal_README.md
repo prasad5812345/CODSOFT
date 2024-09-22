@@ -13,3 +13,6 @@
 <h1>Output:</h1>
 
 ![](https://github.com/prasad5812345/CODSOFT/blob/main/Task-2%20(Calculator)/Output%20screenshots/cal%20output.png)
+
+<br>
+<b>#codsoft #internship #pythonprogramming</b>
